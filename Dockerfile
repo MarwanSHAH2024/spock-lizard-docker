@@ -8,3 +8,4 @@ ENTRYPOINT ["java","-jar", "/app.jar"]
 # This is a test modification
 # This is a test modification
 # This is a test modification Kofta
+# This is a test modification Kofta while on COCO
